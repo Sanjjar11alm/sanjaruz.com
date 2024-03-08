@@ -1,7 +1,7 @@
 .myDiv {
     margin-top: 1cm;
     margin-left: 2cm;
-    margin-right: 18cm;
+    margin-right: 5%;
     border: 3px outset rgb(233, 239, 248);
     background: rgb(48,22,65);
 background: linear-gradient(85deg, rgba(48,22,65,1) 0%, rgba(2,10,40,1) 50%, rgba(24,21,87,1) 100%);
